@@ -1,6 +1,6 @@
 package com.jojoldu.book.springboot.domain.user;
 
-import com.jojoldu.book.springboot.domain.BaseTImeEntity;
+import com.jojoldu.book.springboot.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -10,7 +10,7 @@ import javax.persistence.*;
 @Getter
 @NoArgsConstructor
 @Entity
-public class User extends BaseTImeEntity {
+public class User extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
