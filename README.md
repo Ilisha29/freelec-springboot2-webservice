@@ -8,7 +8,7 @@
 
 ## 01장 인텔리제이로 스프링 부트 시작하기
 
-![image](https://user-images.githubusercontent.com/40922963/93711616-ab868580-fb8a-11ea-8732-28cd62e327bf.png)
+![image](https://user-images.githubusercontent.com/40922963/93711616-ab868580-fb8a-11ea-8732-28cd62e327bf.png){:.aligncenter}
 
 ## 02장 스프링 부트에서 테스트 코드를 작성하자
 
