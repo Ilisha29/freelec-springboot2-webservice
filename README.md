@@ -1,8 +1,8 @@
 # freelec-springboot2-webservice
 
-### '스프링 부트와 AWS로 혼자 구현하는 웹 서비스' 학습 저장소입니다. (3 retries 끝에 성공)
+### '스프링 부트와 AWS로 혼자 구현하는 웹 서비스' 학습 저장소입니다.
 
-### 서비스 URL : http://ec2-3-34-150-161.ap-northeast-2.compute.amazonaws.com/
+### 서비스 URL : ~~http://ec2-3-34-150-161.ap-northeast-2.compute.amazonaws.com/~~ (현재 AWS를 다른 프로젝트 진행을 위해 사용중이라 내렸습니다)
 
 
 
